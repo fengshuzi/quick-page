@@ -31,12 +31,6 @@ export default class QuickPageCreatorPlugin extends Plugin {
     const filePath = `pages/${fileName}`;
 
     try {
-      // 确保 pages 目录存在
-      const pagesFolder = this.app.vault.getAbstractFileByPath('pages');
-      if (!pagesFolder) {
-        await this.app.vault.createFolder('pages');
-      }
-
       // 检查文件是否已存在
       const existingFile = this.app.vault.getAbstractFileByPath(filePath);
       if (existingFile instanceof TFile) {
