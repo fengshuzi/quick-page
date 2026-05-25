@@ -1,7 +1,7 @@
 {
   "id": "quick-page",
   "name": "Quick Page",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "minAppVersion": "1.4.0",
   "description": "Quickly create timestamped notes in a specified folder.",
   "author": "lizhifeng",
