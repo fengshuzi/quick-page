@@ -11,6 +11,13 @@
 
 ## 安装
 
+### Obsidian 社区市场安装（推荐）
+
+打开 Obsidian 设置 → 第三方插件 → 浏览，搜索 **Quick Page** 或 **fengshuzi** 即可安装。
+
+### 手动安装
+
+
 ### 开发模式安装
 
 1. 将此插件文件夹复制到你的 Obsidian vault 的 `.obsidian/plugins/` 目录下
