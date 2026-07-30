@@ -1,6 +1,6 @@
 {
   "name": "quick-page",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Quickly create timestamped notes in a specified folder.",
   "main": "main.js",
   "scripts": {
